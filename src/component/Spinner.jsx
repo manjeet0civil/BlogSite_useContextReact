@@ -1,10 +1,10 @@
-import "./spinner.css";
+import "./Spinner.css";
 import React from 'react'
 
-const spinner = () => {
+const Spinner = () => {
   return (
     <div className="flex flex-col justify-center items-center h-screen">
-         <div className="spinner">
+         <div className="Spinner">
       
       
     </div>
@@ -18,4 +18,4 @@ const spinner = () => {
   )
 }
 
-export default spinner
+export default Spinner
