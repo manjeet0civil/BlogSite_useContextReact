@@ -3,7 +3,7 @@ import { useContext } from 'react'
 import { useState } from 'react';
 import { AppContext } from '../ContextAPI/AppContext'; 
 import { useEffect } from 'react';
-import Spinner from './spinner'; // Import Spinner component
+import Spinner from './Spinner'; // Import Spinner component
 
 const Blogs = () => {
     
